@@ -1,4 +1,4 @@
-# SCT_ML_4 - Sentiment Classification with NLP (IMDb Dataset)
+# SCT_ML_4 - Hand Gesture Recongnition using CNN
 
 This repository contains Task 4 of the SkillCraft Machine Learning Internship. The task focuses on using Natural Language Processing (NLP) techniques to classify the sentiment of movie reviews from the IMDb dataset.
 
